@@ -4,7 +4,6 @@ Estudante de Sistemas de Informação, sou desenvolvedora back-end, sou uma pess
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jade-Pereira&layout=compact&theme=dracula" alt="Jade Pereira Languages" width="400"/>
 <!---
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
 
 Jade-Pereira/Jade-Pereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
